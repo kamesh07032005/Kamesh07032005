@@ -56,5 +56,5 @@
 
 
 ###
-<img src="https://raw.githubusercontent.com/Kamesh07032005/Kamesh07032005/output/snake.svg" alt="Snake animation" /> 
+<img src="https://raw.githubusercontent.com/kamesh07032005/kamesh07032005/output/snake.svg" alt="Snake animation" /> 
 ###
