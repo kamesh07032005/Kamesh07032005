@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently working on **Gpay intergration**
 - 🌱 I’m currently learning **MERN**
 
 
